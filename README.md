@@ -5,13 +5,15 @@
 
 ## Example of a flow Chart
 
-...
-this is a codeblock
-...
 
-...mermaid
+```
+this is a codeblock
+```
+
+
+```mermaid
 flowchart LR
     one --> two
     three --> four
 
-...
+```
